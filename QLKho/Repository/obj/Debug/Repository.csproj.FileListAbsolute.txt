@@ -1,0 +1,10 @@
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\Repository\bin\Debug\Repository.dll.config
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\Repository\bin\Debug\Repository.dll
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\Repository\bin\Debug\Repository.pdb
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\Repository\bin\Debug\QLKho.Model.dll
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\Repository\bin\Debug\QLKho.Model.pdb
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\Repository\obj\Debug\Repository.csproj.Up2Date
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\Repository\obj\Debug\Repository.dll
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\Repository\obj\Debug\Repository.pdb

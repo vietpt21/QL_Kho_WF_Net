@@ -1,0 +1,6 @@
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\QLKho.Model\bin\Debug\QLKho.Model.dll
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\QLKho.Model\bin\Debug\QLKho.Model.pdb
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\QLKho.Model\obj\Debug\QLKho.Model.csproj.AssemblyReference.cache
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\QLKho.Model\obj\Debug\QLKho.Model.csproj.CoreCompileInputs.cache
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\QLKho.Model\obj\Debug\QLKho.Model.dll
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\QLKho.Model\obj\Debug\QLKho.Model.pdb

@@ -1,0 +1,13 @@
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\QLKho.Services\bin\Debug\QLKho.Services.dll.config
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\QLKho.Services\bin\Debug\QLKho.Services.dll
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\QLKho.Services\bin\Debug\QLKho.Services.pdb
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\QLKho.Services\bin\Debug\QLKho.Model.dll
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\QLKho.Services\bin\Debug\Repository.dll
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\QLKho.Services\bin\Debug\QLKho.Model.pdb
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\QLKho.Services\bin\Debug\Repository.pdb
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\QLKho.Services\bin\Debug\Repository.dll.config
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\QLKho.Services\obj\Debug\QLKho.Services.csproj.AssemblyReference.cache
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\QLKho.Services\obj\Debug\QLKho.Services.csproj.CoreCompileInputs.cache
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\QLKho.Services\obj\Debug\QLKho.Se.4E16A5D8.Up2Date
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\QLKho.Services\obj\Debug\QLKho.Services.dll
+C:\Users\VIETPT\Desktop\QLKho_WF\QL_Kho_WF_Net\QLKho\QLKho.Services\obj\Debug\QLKho.Services.pdb
