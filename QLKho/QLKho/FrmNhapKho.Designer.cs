@@ -345,6 +345,7 @@
             this.btnThemKho.Text = "Them Kho";
             this.btnThemKho.UseVisualStyleBackColor = true;
             this.btnThemKho.Visible = false;
+            this.btnThemKho.Click += new System.EventHandler(this.btnThemKho_Click);
             // 
             // txtNgayNhap
             // 

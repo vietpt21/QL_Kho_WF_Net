@@ -3,32 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|c:\\users\\vietpt\\desktop\\qlkho_wf\\ql_kho_wf_net\\qlkho\\qlkho\\frmnhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\qlkho\\usercontrol\\formitem\\frmaddproduc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|solutionrelative:qlkho\\usercontrol\\formitem\\frmaddproduc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC604CF9-51EA-4F13-B88C-46AD9F6CDED5}|Repository\\Repository.csproj|C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\repository\\nhapkhoctreponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC604CF9-51EA-4F13-B88C-46AD9F6CDED5}|Repository\\Repository.csproj|solutionrelative:repository\\nhapkhoctreponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\qlkho\\usercontrol\\formitem\\frmaddproduc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|solutionrelative:qlkho\\usercontrol\\formitem\\frmaddproduc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B220A8-036B-41EB-B7DA-6D9002800212}|QLKho.Services\\QLKho.Services.csproj|C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\qlkho.services\\nhapkhoctservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B220A8-036B-41EB-B7DA-6D9002800212}|QLKho.Services\\QLKho.Services.csproj|solutionrelative:qlkho.services\\nhapkhoctservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|c:\\users\\vietpt\\desktop\\qlkho_wf\\ql_kho_wf_net\\qlkho\\qlkho\\usercontrol\\formitem\\frmaddproduc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|solutionrelative:qlkho\\usercontrol\\formitem\\frmaddproduc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\qlkho\\frmnhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|solutionrelative:qlkho\\frmnhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\qlkho\\frmnhapkhoct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|solutionrelative:qlkho\\frmnhapkhoct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25B220A8-036B-41EB-B7DA-6D9002800212}|QLKho.Services\\QLKho.Services.csproj|C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\qlkho.services\\nhapkhoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B220A8-036B-41EB-B7DA-6D9002800212}|QLKho.Services\\QLKho.Services.csproj|solutionrelative:qlkho.services\\nhapkhoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\qlkho\\frmnhapkhoct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|solutionrelative:qlkho\\frmnhapkhoct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DC604CF9-51EA-4F13-B88C-46AD9F6CDED5}|Repository\\Repository.csproj|C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\repository\\nhapkhoreponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC604CF9-51EA-4F13-B88C-46AD9F6CDED5}|Repository\\Repository.csproj|solutionrelative:repository\\nhapkhoreponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\qlkho\\frmnhapkhoct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|solutionrelative:qlkho\\frmnhapkhoct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\qlkho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|solutionrelative:qlkho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\qlkho\\frmnhapkhoct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|solutionrelative:qlkho\\frmnhapkhoct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\qlkho\\frmkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|solutionrelative:qlkho\\frmkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\qlkho\\usercontrol\\usersanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|solutionrelative:qlkho\\usercontrol\\usersanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\qlkho\\frmnhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|solutionrelative:qlkho\\frmnhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\qlkho\\usercontrol\\userworkhouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57FA87C-9AFF-4679-8BB4-C6FEDA774E89}|QLKho\\QLKho.csproj|solutionrelative:qlkho\\usercontrol\\userworkhouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,86 +62,152 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmNhapKhoCT.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\FrmNhapKhoCT.Designer.cs",
-              "RelativeDocumentMoniker": "QLKho\\FrmNhapKhoCT.Designer.cs",
-              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\FrmNhapKhoCT.Designer.cs",
-              "RelativeToolTip": "QLKho\\FrmNhapKhoCT.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T03:35:40.198Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "FrmNhapKho.cs",
               "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\FrmNhapKho.cs",
               "RelativeDocumentMoniker": "QLKho\\FrmNhapKho.cs",
               "ToolTip": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\FrmNhapKho.cs",
               "RelativeToolTip": "QLKho\\FrmNhapKho.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCYAAAANAAAA",
+              "ViewState": "AQIAANsAAAAAAAAAAAAnwBsBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T09:15:09.572Z",
+              "WhenOpened": "2024-08-14T07:42:17.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAddProduc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\userControl\\FormItem\\frmAddProduc.cs",
+              "RelativeDocumentMoniker": "QLKho\\userControl\\FormItem\\frmAddProduc.cs",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\userControl\\FormItem\\frmAddProduc.cs [Design]",
+              "RelativeToolTip": "QLKho\\userControl\\FormItem\\frmAddProduc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:04:20.357Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhapKhoCTReponse.cs",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\Repository\\NhapKhoCTReponse.cs",
+              "RelativeDocumentMoniker": "Repository\\NhapKhoCTReponse.cs",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\Repository\\NhapKhoCTReponse.cs",
+              "RelativeToolTip": "Repository\\NhapKhoCTReponse.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAqwHQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T10:34:25.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAddProduc.cs",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\userControl\\FormItem\\frmAddProduc.cs",
+              "RelativeDocumentMoniker": "QLKho\\userControl\\FormItem\\frmAddProduc.cs",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\userControl\\FormItem\\frmAddProduc.cs",
+              "RelativeToolTip": "QLKho\\userControl\\FormItem\\frmAddProduc.cs",
+              "ViewState": "AQIAAAsBAAAAAAAAAAAIwEQBAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:07:42.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhapKhoCTService.cs",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho.Services\\NhapKhoCTService.cs",
+              "RelativeDocumentMoniker": "QLKho.Services\\NhapKhoCTService.cs",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho.Services\\NhapKhoCTService.cs",
+              "RelativeToolTip": "QLKho.Services\\NhapKhoCTService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAC4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T10:58:55.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAddProduc.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\userControl\\FormItem\\frmAddProduc.Designer.cs",
+              "RelativeDocumentMoniker": "QLKho\\userControl\\FormItem\\frmAddProduc.Designer.cs",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\userControl\\FormItem\\frmAddProduc.Designer.cs",
+              "RelativeToolTip": "QLKho\\userControl\\FormItem\\frmAddProduc.Designer.cs",
+              "ViewState": "AQIAAFADAAAAAAAAAAAtwGcDAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:24:56.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "FrmNhapKho.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\FrmNhapKho.cs",
-              "RelativeDocumentMoniker": "QLKho\\FrmNhapKho.cs",
-              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QLKho\\QLKho\\FrmNhapKho.cs [Design]",
-              "RelativeToolTip": "..\\..\\QLKho\\QLKho\\FrmNhapKho.cs [Design]",
+              "Title": "NhapKhoService.cs",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho.Services\\NhapKhoService.cs",
+              "RelativeDocumentMoniker": "QLKho.Services\\NhapKhoService.cs",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho.Services\\NhapKhoService.cs",
+              "RelativeToolTip": "QLKho.Services\\NhapKhoService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T01:10:01.541Z"
+              "WhenOpened": "2024-08-14T09:18:37.1Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "NhapKhoReponse.cs",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\Repository\\NhapKhoReponse.cs",
+              "RelativeDocumentMoniker": "Repository\\NhapKhoReponse.cs",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\Repository\\NhapKhoReponse.cs",
+              "RelativeToolTip": "Repository\\NhapKhoReponse.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAIwKUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:17:20.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmNhapKhoCT.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\FrmNhapKhoCT.cs",
+              "RelativeDocumentMoniker": "QLKho\\FrmNhapKhoCT.cs",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\FrmNhapKhoCT.cs [Design]",
+              "RelativeToolTip": "QLKho\\FrmNhapKhoCT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:30:00.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "FrmNhapKhoCT.cs",
               "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\FrmNhapKhoCT.cs",
               "RelativeDocumentMoniker": "QLKho\\FrmNhapKhoCT.cs",
               "ToolTip": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\FrmNhapKhoCT.cs",
               "RelativeToolTip": "QLKho\\FrmNhapKhoCT.cs",
-              "ViewState": "AQIAAOEAAAAAAAAAAAAwwOsAAAAqAAAA",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAawH0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T10:03:42.2Z"
+              "WhenOpened": "2024-08-14T10:51:59.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmNhapKhoCT.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\FrmNhapKhoCT.cs",
-              "RelativeDocumentMoniker": "QLKho\\FrmNhapKhoCT.cs",
-              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QLKho\\QLKho\\FrmNhapKhoCT.cs [Design]",
-              "RelativeToolTip": "..\\..\\QLKho\\QLKho\\FrmNhapKhoCT.cs [Design]",
+              "DocumentIndex": 10,
+              "Title": "userSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\userControl\\userSanPham.cs",
+              "RelativeDocumentMoniker": "QLKho\\userControl\\userSanPham.cs",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\userControl\\userSanPham.cs [Design]",
+              "RelativeToolTip": "QLKho\\userControl\\userSanPham.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T09:51:56.361Z"
+              "WhenOpened": "2024-08-14T11:01:10.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\Program.cs",
-              "RelativeDocumentMoniker": "QLKho\\Program.cs",
-              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\Program.cs",
-              "RelativeToolTip": "QLKho\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "DocumentIndex": 11,
+              "Title": "userWorkhouse.cs",
+              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\userControl\\userWorkhouse.cs",
+              "RelativeDocumentMoniker": "QLKho\\userControl\\userWorkhouse.cs",
+              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\userControl\\userWorkhouse.cs",
+              "RelativeToolTip": "QLKho\\userControl\\userWorkhouse.cs",
+              "ViewState": "AQIAALMBAAAAAAAAAAAIwNIBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T09:13:58.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmKho.cs",
-              "DocumentMoniker": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\FrmKho.cs",
-              "RelativeDocumentMoniker": "QLKho\\FrmKho.cs",
-              "ToolTip": "C:\\Users\\VIETPT\\Desktop\\QLKho_WF\\QL_Kho_WF_Net\\QLKho\\QLKho\\FrmKho.cs",
-              "RelativeToolTip": "QLKho\\FrmKho.cs",
-              "ViewState": "AQIAAHoAAAAAAAAAAADwv4sAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T09:17:48.865Z"
+              "WhenOpened": "2024-08-14T07:21:07.272Z",
+              "EditorCaption": ""
             }
           ]
         }

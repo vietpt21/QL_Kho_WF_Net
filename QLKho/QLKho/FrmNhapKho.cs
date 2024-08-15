@@ -135,7 +135,7 @@ namespace QLKho
         private void btnThemNCC_Click(object sender, EventArgs e)
         {
             // Mở form nhập NCC
-            using (var form = new FrmNhapKho())
+            using (var form = new FrmNCC())
             {
                 form.ShowDialog();
 
@@ -147,7 +147,6 @@ namespace QLKho
         private void ClearInputFields()
         {
             txtLoaiNhap.Clear();
-            
             cbTenKho.SelectedIndex = -1;
             cbTenNCC.SelectedIndex = -1;
             txtSLNhap.Clear();
@@ -278,6 +277,11 @@ namespace QLKho
                 hienthinhapkho();
             }
             
+        }
+
+        private void btnThemKho_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

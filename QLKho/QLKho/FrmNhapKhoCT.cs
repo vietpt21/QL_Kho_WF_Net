@@ -1,11 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace QLKho
@@ -53,6 +48,7 @@ namespace QLKho
                         {
                             nkct.id,
                             nkct.ngay_nhap,
+                            nk.loai_nhap,
                             nkct.nhom_san_pham,
                             nkct.hang_sx,
                             nkct.hinh_anh,
@@ -77,11 +73,12 @@ namespace QLKho
             foreach (var item in data)
             {
                 ListViewItem lvi = new ListViewItem(item.id.ToString());
+                lvi.SubItems.Add(item.loai_nhap);
                 lvi.SubItems.Add(item.ngay_nhap.ToString("dd/MM/yyyy"));
                 lvi.SubItems.Add(item.ten_san_pham);
                 lvi.SubItems.Add(item.nhom_san_pham);
-                lvi.SubItems.Add(item.hinh_anh);
                 lvi.SubItems.Add(item.hang_sx);
+                lvi.SubItems.Add(item.hinh_anh);
                 lvi.SubItems.Add(item.thong_tin);
                 lvi.SubItems.Add(item.han_su_dung.ToString());
                 lvi.SubItems.Add(item.quy_cach);
@@ -170,7 +167,7 @@ namespace QLKho
         private void btnThem_Click(object sender, EventArgs e)
         {
             // Kiểm tra tính hợp lệ của các trường nhập liệu
-            if (cboSanPham.SelectedItem == null || cboNhapKho.SelectedItem == null ||
+           /* if (cboSanPham.SelectedItem == null || cboNhapKho.SelectedItem == null ||
                 string.IsNullOrEmpty(txtSoLo.Text) ||
                 string.IsNullOrEmpty(txtNgayHetHan.Text) ||
                 string.IsNullOrEmpty(txtNgayTao.Text) ||
@@ -180,7 +177,7 @@ namespace QLKho
             {
                 MessageBox.Show("Vui lòng nhập đầy đủ thông tin.");
                 return;
-            }
+            }*/
 
             int sanPhamId = (int)cboSanPham.SelectedValue;
             int nhapKhoId = (int)cboNhapKho.SelectedValue;
@@ -248,10 +245,10 @@ namespace QLKho
                 sl_xuat =slXuat,
                 sl_ton = slTon,
                 ngay_het_han = txtNgayHetHan.Value,
-                ghi_chu = txtGhiChu.Text,
+               /* ghi_chu = txtGhiChu.Text,
                 ngay_tao = txtNgayTao.Value,
                 ngay_cap_nhat = txtNgayCapNhat.Value,
-                nguoi_tao = txtNguoiTao.Text, // Thay đổi theo người dùng hiện tại
+                nguoi_tao = txtNguoiTao.Text, // Thay đổi theo người dùng hiện tại*/
             };
 
             // Thêm đối tượng vào cơ sở dữ liệu
@@ -268,22 +265,22 @@ namespace QLKho
         {
             // Ví dụ về các trường nhập liệu
            
-            txtSLNhap.Text = string.Empty;
+           /* txtSLNhap.Text = string.Empty;
             txtSLXuat.Text = string.Empty;
             txtSLTon.Text = string.Empty;
             txtGhiChu.Text = string.Empty;
             txtNguoiTao.Text = string.Empty;
-            txtSoLo.Text = string.Empty;
+            txtSoLo.Text = string.Empty;*/
         
 
             // Đặt lại ComboBox về giá trị mặc định
             cboSanPham.SelectedIndex = -1;
             cboNhapKho.SelectedIndex = -1;
 
-            // Đặt lại các DateTimePicker
+            /*// Đặt lại các DateTimePicker
             txtNgayTao.Value = DateTime.Now;
             txtNgayHetHan.Value = DateTime.Now;
-            txtNgayCapNhat.Value = DateTime.Now;
+            txtNgayCapNhat.Value = DateTime.Now;*/
 
             // Ẩn nút "Thêm" nếu cần
             btnSp.Visible = false;
